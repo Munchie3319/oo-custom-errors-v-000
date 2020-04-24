@@ -23,7 +23,7 @@ class Person
    an argument of an instance of the person class!"
  end
 end
-end
+
 
 beyonce = Person.new("Beyonce")
 beyonce.get_married("Jay-Z")
